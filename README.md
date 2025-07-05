@@ -57,7 +57,7 @@ I'm <strong>Atulya</strong> — a passionate <strong>Software Engineer</strong> 
 
 ###
 
-<h4 align="left">💻 Technologies</h4>
+<h3 align="left">💻 Technologies</h3>
 
 ###
 
@@ -87,7 +87,7 @@ I'm <strong>Atulya</strong> — a passionate <strong>Software Engineer</strong> 
 
 ###
 
-<h4 align="left">🧃 Juice for Devs</h4>
+<h3 align="left">🧃 Juice for Devs</h3>
 <div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </div>
